@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Efrain Lima</h2>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate web developer, Mobile,UI/UX Designer from Perú</h3>
 
 - 🔭 I’m currently working on **WEB APPLICATIONS PROJECT**
 - 🌱 I’m currently learning **Flutter Framework**
