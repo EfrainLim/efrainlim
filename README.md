@@ -2,17 +2,11 @@
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 🔭 I’m currently working on **WEB APPLICATIONS PROJECT**
-
 - 🌱 I’m currently learning **Flutter Framework**
-
 - 👯 I’m looking to collaborate on **APPS MOBILE**
-
 - 👨‍💻 All of my projects are available at [https://github.com/EfrainLim/efrainlim/](https://github.com/EfrainLim/efrainlim/)
-
 - 💬 Ask me about **Developement**
-
 - 📫 How to reach me **efrainlima7@gmail.com**
-
 - 📄 Know about my experiences [Desarrollo de aplicaciones en Django-Python](Desarrollo de aplicaciones en Django-Python)
 
 <h3 align="left">Connect with me:</h3>
